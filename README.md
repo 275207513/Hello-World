@@ -1,34 +1,20 @@
 
 全球潮位数据：https://pan.baidu.com/s/10zcBk1m1wJF_EzgJz23s7w  提取码: ukc9 
-
 用法示例：
-
 123青岛潮位
-
 123永兴岛潮位
-
 123大连潮位
 
 所有指令：https://pan.baidu.com/s/1Wr8v4-GNxQNFICKBheMbug  提取码: h1pv 
-
 指令式用法示例：
-
 123大连
-
 123杭州
-
 123广州
-
 123华东
-
 123西北
-
 123全国
-
 123cn
-
 123亚洲
-
 123美洲
 123ec03
 123ecmwf50008
